@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hello, World! 👋
 
-<!--
-**ocelotko/ocelotko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jakub Hachlinec, also known as Ocelot. Welcome to my GitHub profile! 🚀
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎥 Editor / Producer / Motion Designer / Programmer
+- 🌐 Based in Slovakia
+- 📧 Connect with me: Coming Soon!
+
+## Skills
+
+- 💻 Programming Languages: Currently learning Java!
+- 🎬 Video Editing: Vegas Pro 14
+- 🎨 Motion Design: After Effects, Unreal Engine 4, Cinema4D, Octane render
+
+## Projects
+
+Coming Soon!
+
+## GitHub Stats
+
+![Ocelot's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ocelotko&show_icons=true&count_private=true)
+
+## Let's Connect
+
+Stay tuned for updates on my projects and how to connect with me. Exciting things are coming soon!
+
+Happy coding! 🚀
