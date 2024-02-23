@@ -18,10 +18,6 @@ I'm Jakub Hachlinec, also known as Ocelot. Welcome to my GitHub profile! 🚀
 
 Coming Soon!
 
-## GitHub Stats
-
-![Ocelot's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ocelotko&show_icons=true&count_private=true)
-
 ## Let's Connect
 
 Stay tuned for updates on my projects and how to connect with me. Exciting things are coming soon!
